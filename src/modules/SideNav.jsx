@@ -1,6 +1,10 @@
+
+
+
 const SideNav = () => {
+
   return (
-    <div className="side-nav">
+    <div className='side-nav'>
       <ul className="icons-menu">
         <li>
           <svg
@@ -231,6 +235,9 @@ const SideNav = () => {
           <a>Texts</a>
         </li>
       </ul>
+
+
+   
     </div>
   );
 };
