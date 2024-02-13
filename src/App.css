@@ -84,22 +84,17 @@ ul {
 
   & button {
     font-size: 10px;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    align-content: center;
     font-weight: bold;
+    text-align: center;
+
   }
 
   & button > span{
-    display: inline-block;
-    text-wrap:nowrap;
-    margin-right:10px;
+    display: block;
+    text-align: center;
   }
 
-  & button:first-child{
-    margin-right:5px;
-  }
+
 
   & button>span>svg {
     width: 10px;
