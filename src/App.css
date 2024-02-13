@@ -77,21 +77,22 @@ ul {
 }
 
 .top-nav-controls {
-  width: 20%;
+  width: 25%;
   display: flex;
   align-items: center;
   justify-content: space-between;
 
   & button {
-    font-size: 7.5px;
-    display: flex;
+    font-size: 10px;
+    display:flex;
     align-items: center;
     font-weight: bold;
   }
 
   & button>span>svg {
-    width: 13px;
+    width: 10px;
     margin-right: 5px;
+    display: inline;
   }
 
   .mobile-menu-false {
