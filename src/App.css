@@ -197,7 +197,7 @@ ul {
     grid-template-rows: repeat(6, 1fr);
     width: 100%;
     justify-items: center;
-    justify-content: center;
+    /* justify-content: center; */
 
     & li {
       margin: 1rem 0.5rem;
