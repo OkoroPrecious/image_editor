@@ -7,7 +7,7 @@ const SideNav = () => {
     <div className='side-nav'>
       <ul className="icons-menu">
         <li>
-          <svg width="33" height="30" viewBox="0 0 33 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg width="40" height="40" viewBox="0 0 33 30" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M3.60136 0.260986V17.4056H0.831116V23.6295H10.5851V17.4056H7.81486V0.260986H3.60136ZM14.6608 0.260986V11.3278H11.8881V17.5518H21.6429V11.3278H18.8718V0.260986H14.6608ZM25.7161 0.260986V5.20034H22.9459V11.4243H32.6999V5.20034H29.9296V0.260986H25.7161ZM24.3592 6.43517H31.2865V7.67079H24.3592V6.43517ZM25.7161 12.4639V29.6582H29.9296V12.4639H25.7161ZM13.3023 12.5627H20.2287V13.7983H13.3023V12.5627ZM14.6608 18.5409V29.6582H18.8718V18.5409H14.6608ZM2.24447 18.6396H9.17178V19.8753H2.24447V18.6396ZM3.60221 24.6684V29.6582H7.81568V24.6684H3.60221Z" fill="black" />
           </svg>
 
@@ -16,8 +16,7 @@ const SideNav = () => {
 
         <li>
           <svg
-            width="26"
-            height="20"
+            width="40" height="40"
             viewBox="0 0 30 30"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
@@ -30,8 +29,7 @@ const SideNav = () => {
         </li>
         <li>
           <svg
-            width="26"
-            height="20"
+            width="40" height="40"
             viewBox="0 0 30 30"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
@@ -44,8 +42,7 @@ const SideNav = () => {
         </li>
         <li>
           <svg
-            width="26"
-            height="20"
+            width="40" height="40"
             viewBox="0 0 33 32"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
@@ -130,8 +127,7 @@ const SideNav = () => {
         </li>
         <li>
           <svg
-            width="30"
-            height="30"
+            width="40" height="40"
             viewBox="0 0 30 30"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
@@ -144,8 +140,7 @@ const SideNav = () => {
         </li>
         <li>
           <svg
-            width="30"
-            height="30"
+            width="40" height="40"
             viewBox="0 0 30 30"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
@@ -158,8 +153,7 @@ const SideNav = () => {
         </li>
         <li>
           <svg
-            width="30"
-            height="30"
+            width="40" height="40"
             viewBox="0 0 30 30"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
@@ -172,8 +166,7 @@ const SideNav = () => {
         </li>
         <li>
           <svg
-            width="30"
-            height="30"
+            width="40" height="40"
             viewBox="0 0 30 30"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
@@ -186,8 +179,7 @@ const SideNav = () => {
         </li>
         <li>
           <svg
-            width="36"
-            height="30"
+            width="40" height="40"
             viewBox="0 0 36 30"
             fill="none"
             xmlns="http://www.w3.org/2000/svg"
