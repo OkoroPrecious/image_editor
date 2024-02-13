@@ -1,4 +1,4 @@
-@media screen and (min-width:1092px){
+
   * {
     margin: 0;
     padding: 0;
@@ -436,9 +436,8 @@
   .toggle-button {
     display: none;
     color: #29358f;
-    width: 45px;
+    width: 30px;
   }
-}
 
 
 
@@ -446,6 +445,7 @@
 
   .toggle-button {
     display: block;
+    width:30px;
   }
 
   .carousel-container {
@@ -462,7 +462,7 @@
     display: none;
   }
 
-  .top-nav>.mobile-menu-true, .top-nav > .mobile-menu-false {
+  .top-nav>.mobile-menu-true {
     display: block;
     position: absolute;
     top: 10vh;
@@ -470,7 +470,7 @@
     z-index: 3000;
     background-color: #eeeeee;
     border-radius: 25px;
-    color: #29358f;
+    color: #29358f;`
     font-weight: bold;
     padding: 1rem 1.5rem;
     box-shadow: 5px 5px 5px 0px #1a1b1e;
