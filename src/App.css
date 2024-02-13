@@ -89,7 +89,6 @@ ul {
     align-items: center;
     font-weight: bold;
     justify-content: space-between;
-    align-content: center ;
   }
 
   & button > span{
